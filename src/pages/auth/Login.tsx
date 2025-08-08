@@ -59,7 +59,7 @@ const Login = () => {
   };
 
   return (
-    <main className="relative grid min-h-screen place-items-center bg-[url('background-image-login.jpg')] bg-cover bg-center">
+    <main className="relative grid min-h-screen place-items-center bg-[url('/background-image-login.jpg')] bg-cover bg-center">
       <span
         className="absolute text-9xl"
         style={{
