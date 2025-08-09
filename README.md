@@ -37,14 +37,14 @@ Aplikasi dibangun menggunakan **React + TypeScript**, **Vite**, dan **Tailwind C
 
 ## 📂 Struktur Proyek
 
-src/
+src/<br/>
 ├── components/ # Komponen UI dan spesifik fitur <br/>
-├── hooks/ # Custom hooks untuk articles, categories, comments
-├── pages/ # Halaman aplikasi
-├── services/ # API service untuk komunikasi dengan backend
-├── lib/ # Utility functions dan config
-├── constant/ # Data konstan
-└── types/ # TypeScript type definitions
+├── hooks/ # Custom hooks untuk articles, categories, comments<br/>
+├── pages/ # Halaman aplikasi<br/>
+├── services/ # API service untuk komunikasi dengan backend<br/>
+├── lib/ # Utility functions dan config<br/>
+├── constant/ # Data konstan<br/>
+└── types/ # TypeScript type definitions<br/>
 
 ---
 
